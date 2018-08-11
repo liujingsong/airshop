@@ -123,7 +123,7 @@ App({
   },
   globalData:{
     userInfo:null,
-    mainDomain:'http://127.0.0.1/:8556',
+    mainDomain:'http://127.0.0.1:9528/',
     subDomain: "tz", // mainDomain + subDomain
     version: "3.0.1",
     shareProfile: '百款精品商品，总有一款适合您' // 首页转发的时候话术
