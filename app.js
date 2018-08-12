@@ -123,9 +123,9 @@ App({
   },
   globalData:{
     userInfo:null,
-    mainDomain:'http://127.0.0.1:9528/',
+    mainDomain:'http://192.168.43.93:9529/',
     subDomain: "tz", // mainDomain + subDomain
-    version: "3.0.1",
+    version: "0.0.1",
     shareProfile: '百款精品商品，总有一款适合您' // 首页转发的时候话术
   }
   /*
